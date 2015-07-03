@@ -1,0 +1,5 @@
+Problem 2.	What is Transact-SQL (T-SQL)?
+
+T-SQL (Transact-SQL) is a set of programming extensions from Sybase and Microsoft that add several features to the Structured Query Language (SQL) 
+including transaction control, exception and error handling, row processing, and declared variables. It is the standard language used in MS SQL Server. 
+Supports loops, if statements, exceptions. T-SQL is used for writing stored procedures, functions, triggers, etc.
